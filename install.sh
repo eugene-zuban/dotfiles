@@ -1,6 +1,6 @@
 #!/bin/bash
 
-echo "Installing .vimrc file"
+echo "Copying .vimrc file into ${HOME}/.vimrc"
 cp .vimrc ~/.vimrc
 echo "Done"
 
