@@ -23,9 +23,6 @@ set number
 " Show row and column information
 set ruler
 
-" Spell checking
-set spell
-
 " No beeping
 set visualbell
 
